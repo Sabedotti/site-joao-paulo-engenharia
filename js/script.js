@@ -3,7 +3,7 @@
    ========================================================= */
 
 // Número do WhatsApp: 55 + DDD + número, só dígitos.
-const WHATSAPP_NUMERO = "5554000000000";
+const WHATSAPP_NUMERO = "5554991562053";
 
 // Mensagem que já aparece escrita quando o cliente abre a conversa.
 const WHATSAPP_MENSAGEM = "Olá, João! Vim pelo site e gostaria de um orçamento para regularizar meu imóvel.";
